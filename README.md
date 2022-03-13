@@ -14,3 +14,8 @@ This post explores a few of these NLP and ML techniques, like text pre-processin
 
 ## DATA
 The data, from Kaggle (Quora Question Pairs), contains a human-labeled training set and a test set. Each record in the training set represents a pair of questions and a binary label indicating whether it’s a duplicate or not.
+
+
+
+here you can see my project
+## https://duplicate-question-pair-soura.herokuapp.com/
